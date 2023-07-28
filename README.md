@@ -19,7 +19,12 @@ cd network-manager-wireguard-jammy
 make
 sudo make install
 ```
-# Import ProtonVPN Wireguard Configs
+
+# How to ProtonVPN Wireguard
+
+### Create and Download ProtonVPN Wireguard Config:
+first go to https://account.protonvpn.com/downloads
+### Import ProtonVPN Wireguard Configs
 
 ![Screenshot from 2023-07-28 07-54-10](https://github.com/Chillsmeit/network-manager-wireguard-jammy/assets/93094077/d6f04745-0892-445d-a954-84800de7916c)
 ### As you can see there's already a wireguard option
