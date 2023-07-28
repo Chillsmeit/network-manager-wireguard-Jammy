@@ -26,4 +26,4 @@ sudo make install
 ![Screenshot from 2023-07-28 07-17-56](https://github.com/Chillsmeit/network-manager-wireguard-jammy/assets/93094077/225d0d49-b7d8-4bbc-9fcb-9953ce285960)
 ![Screenshot from 2023-07-28 08-07-38](https://github.com/Chillsmeit/network-manager-wireguard-jammy/assets/93094077/2eb48742-56b1-4e53-b107-9f11bad67bbf)
 ![Screenshot from 2023-07-28 07-55-08](https://github.com/Chillsmeit/network-manager-wireguard-jammy/assets/93094077/b4b46f34-e6b6-48db-96ce-84a151c85175)
-
+![Screenshot from 2023-07-28 08-17-18](https://github.com/Chillsmeit/network-manager-wireguard-jammy/assets/93094077/893fba03-75e7-464b-b0a7-ab5340821a4c)
