@@ -12,8 +12,8 @@ sudo apt install wireguard git dh-autoreconf libglib2.0-dev intltool build-essen
 ```
 ### Clone Repo and Install Network Manager:
 ```
-git clone https://github.com/Chillsmeit/network-manager-wireguard-Jammy
-cd network-manager-wireguard-Jammy
+git clone https://github.com/Chillsmeit/network-manager-wireguard-jammy
+cd network-manager-wireguard-jammy
 ./autogen.sh --without-libnm-glib
 ./configure --without-libnm-glib --prefix=/usr --sysconfdir=/etc --libdir=/usr/lib/x86_64-linux-gnu --libexecdir=/usr/lib/NetworkManager --localstatedir=/var
 make
